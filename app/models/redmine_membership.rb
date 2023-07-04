@@ -1,0 +1,2 @@
+class RedmineMembership < ApplicationRecord
+end

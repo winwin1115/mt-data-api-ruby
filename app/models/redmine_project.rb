@@ -1,0 +1,2 @@
+class RedmineProject < ApplicationRecord
+end

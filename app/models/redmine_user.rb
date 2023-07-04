@@ -1,0 +1,2 @@
+class RedmineUser < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class RedmineTimeEntry < ApplicationRecord
+end

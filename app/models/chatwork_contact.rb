@@ -1,0 +1,2 @@
+class ChatworkContact < ApplicationRecord
+end

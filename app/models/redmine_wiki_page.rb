@@ -1,0 +1,2 @@
+class RedmineWikiPage < ApplicationRecord
+end

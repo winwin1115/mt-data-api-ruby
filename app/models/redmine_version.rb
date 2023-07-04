@@ -1,0 +1,2 @@
+class RedmineVersion < ApplicationRecord
+end

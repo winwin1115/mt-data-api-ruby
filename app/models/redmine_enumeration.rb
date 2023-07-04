@@ -1,0 +1,2 @@
+class RedmineEnumeration < ApplicationRecord
+end

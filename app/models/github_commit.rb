@@ -1,0 +1,2 @@
+class GithubCommit < ApplicationRecord
+end

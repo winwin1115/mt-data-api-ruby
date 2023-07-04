@@ -1,0 +1,2 @@
+class RedmineToken < ApplicationRecord
+end

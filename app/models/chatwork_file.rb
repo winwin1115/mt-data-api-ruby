@@ -1,0 +1,2 @@
+class ChatworkFile < ApplicationRecord
+end

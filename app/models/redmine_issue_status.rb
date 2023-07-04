@@ -1,0 +1,2 @@
+class RedmineIssueStatus < ApplicationRecord
+end

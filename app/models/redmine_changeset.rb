@@ -1,0 +1,2 @@
+class RedmineChangeset < ApplicationRecord
+end

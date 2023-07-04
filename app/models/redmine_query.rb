@@ -1,0 +1,2 @@
+class RedmineQuery < ApplicationRecord
+end

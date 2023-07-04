@@ -1,0 +1,2 @@
+class ChatworkMytask < ApplicationRecord
+end

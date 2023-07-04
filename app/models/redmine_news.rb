@@ -1,0 +1,2 @@
+class RedmineNews < ApplicationRecord
+end

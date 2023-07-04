@@ -1,0 +1,2 @@
+class RedmineGroup < ApplicationRecord
+end

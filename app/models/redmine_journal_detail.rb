@@ -1,0 +1,2 @@
+class RedmineJournalDetail < ApplicationRecord
+end
